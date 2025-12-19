@@ -1,2 +1,2 @@
 let a = "cgcgcg";
-let b = 3,14;
+const b = 3;
