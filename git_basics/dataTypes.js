@@ -1,2 +1,4 @@
-const a = 23;
-console.log(a);
+let a = 23;
+let b = 12;
+
+console.log(a * b);
