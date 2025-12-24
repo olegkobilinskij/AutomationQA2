@@ -5,7 +5,7 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "node git_basics/dataTypes.js",
+    "test": "node git_basics/importFile3.js",
     "test2": "node git_basics/newFile.js"
   },
   "repository": {
